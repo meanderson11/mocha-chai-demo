@@ -1,0 +1,25 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.1.0",
+    "node": "^19.0.0",
+    "sinon": "^14.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-mocha": "^8.0.0",
+    "gulp-util": "^3.0.8"
+  },
+  "description": ""
+}
